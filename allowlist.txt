@@ -174,4 +174,5 @@
 @@||protonmail.com^
 
 @@||piscale.com^
-@@*.ui.com^
+@@||*.ui.com^
+
