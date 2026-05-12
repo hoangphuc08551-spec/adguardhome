@@ -177,5 +177,5 @@
 @@||*.ui.com^
 @@||www.belkin.com^
 @@||ui.com^
-
+@@||connectivity-check.ubuntu.com^
 
