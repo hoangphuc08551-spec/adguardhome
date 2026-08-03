@@ -178,4 +178,5 @@
 @@||www.belkin.com^
 @@||ui.com^
 @@||connectivity-check.ubuntu.com^
+@@||2.debian.pool.ntp.org^
 
